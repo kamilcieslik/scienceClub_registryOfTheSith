@@ -1,0 +1,42 @@
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe.config
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Properties.Resources.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csproj.GenerateResource.Cache
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.exe
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.pdb
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateSith.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Form1.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditSith.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditLordSith.resources
+C:\Users\Kamil Cieślik\Desktop\elo\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateLordSith.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe.config
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.exe
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateLordSith.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateSith.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditLordSith.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditSith.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Form1.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\kredek\kamil_cieslik\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe.config
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.pdb
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateLordSith.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateSith.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditLordSith.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditSith.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Form1.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLab2PD\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csproj.GenerateResource.Cache
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe.config
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.exe
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.pdb
