@@ -40,3 +40,13 @@ D:\Visual Studio 2015\Projects\kredek\kredek\lab2\zadanie domowe\KamilCieślikLa
 D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe.config
 D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.exe
 D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.pdb
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.exe
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\bin\Debug\KamilCieślikLab2PD.pdb
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csprojResolveAssemblyReference.cache
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateLordSith.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.CreateSith.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditLordSith.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.EditSith.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.MainFrame.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.Properties.Resources.resources
+D:\Projects\C#\scienceClub_registryOfTheSith\KamilCieślikLab2PD\obj\Debug\KamilCieślikLab2PD.csproj.GenerateResource.Cache

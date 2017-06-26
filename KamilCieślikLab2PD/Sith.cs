@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace KamilCieślikLab2PD
 {
@@ -26,70 +22,74 @@ namespace KamilCieślikLab2PD
 
         public Sith(string name, string planet, int yearOfBirth, bool wasJedi, string colourOfLightSaber, string lightSaberCombat, int amountOfKilledJedi, int yearOfDeath, string imagepath)
         {
-            this.Name = "Darth " +name;
-            this.Planet = planet;
-            this.YearOfBirth = yearOfBirth;
-            this.WasJedi = wasJedi;
-            this.ColourOfLightsaber = colourOfLightSaber;
-            this.LightsaberCombat = lightSaberCombat;
-            this.AmountOfKilledJedi = amountOfKilledJedi;
-            this.YearOfDeath = yearOfDeath;
-           this.ImagePath = imagepath;
+            Name = "Darth " + name;
+            Planet = planet;
+            YearOfBirth = yearOfBirth;
+            WasJedi = wasJedi;
+            ColourOfLightsaber = colourOfLightSaber;
+            LightsaberCombat = lightSaberCombat;
+            AmountOfKilledJedi = amountOfKilledJedi;
+            YearOfDeath = yearOfDeath;
+            ImagePath = imagepath;
         }
 
         public Sith(string name, string planet, int yearOfBirth, bool wasJedi, string colourOfLightSaber, string lightSaberCombat, int amountOfKilledJedi, string imagepath)
         {
-            this.Name = "Darth " + name;
-            this.Planet = planet;
-            this.YearOfBirth = yearOfBirth;
-            this.WasJedi = wasJedi;
-            this.ColourOfLightsaber = colourOfLightSaber;
-            this.LightsaberCombat = lightSaberCombat;
-            this.AmountOfKilledJedi = amountOfKilledJedi;
-            this.ImagePath = imagepath;
+            Name = "Darth " + name;
+            Planet = planet;
+            YearOfBirth = yearOfBirth;
+            WasJedi = wasJedi;
+            ColourOfLightsaber = colourOfLightSaber;
+            LightsaberCombat = lightSaberCombat;
+            AmountOfKilledJedi = amountOfKilledJedi;
+            ImagePath = imagepath;
         }
 
         public Sith(string planet, int yearOfBirth, bool wasJedi, string colourOfLightSaber, string lightSaberCombat, int amountOfKilledJedi, int yearOfDeath, string imagepath)
         {
-            this.Planet = planet;
-            this.YearOfBirth = yearOfBirth;
-            this.WasJedi = wasJedi;
-            this.ColourOfLightsaber = colourOfLightSaber;
-            this.LightsaberCombat = lightSaberCombat;
-            this.AmountOfKilledJedi = amountOfKilledJedi;
-            this.YearOfDeath = yearOfDeath;
-            this.ImagePath = imagepath;
+            Planet = planet;
+            YearOfBirth = yearOfBirth;
+            WasJedi = wasJedi;
+            ColourOfLightsaber = colourOfLightSaber;
+            LightsaberCombat = lightSaberCombat;
+            AmountOfKilledJedi = amountOfKilledJedi;
+            YearOfDeath = yearOfDeath;
+            ImagePath = imagepath;
         }
 
-        public Sith( string planet, int yearOfBirth, bool wasJedi, string colourOfLightSaber, string lightSaberCombat, int amountOfKilledJedi, string imagepath)
+        public Sith(string planet, int yearOfBirth, bool wasJedi, string colourOfLightSaber, string lightSaberCombat, int amountOfKilledJedi, string imagepath)
         {
-            this.Planet = planet;
-            this.YearOfBirth = yearOfBirth;
-            this.WasJedi = wasJedi;
-            this.ColourOfLightsaber = colourOfLightSaber;
-            this.LightsaberCombat = lightSaberCombat;
-            this.AmountOfKilledJedi = amountOfKilledJedi;
-            this.ImagePath = imagepath;
+            Planet = planet;
+            YearOfBirth = yearOfBirth;
+            WasJedi = wasJedi;
+            ColourOfLightsaber = colourOfLightSaber;
+            LightsaberCombat = lightSaberCombat;
+            AmountOfKilledJedi = amountOfKilledJedi;
+            ImagePath = imagepath;
         }
 
         public virtual string View()
         {
-            DateTime current = DateTime.Now;
-            int currentYear = current.Year;
+            var current = DateTime.Now;
+            var currentYear = current.Year;
 
-            string temporaryFaith = "";
-            if (this.WasJedi == true) temporaryFaith = "Jedi - JASNA STRONA MOCY";
-            else temporaryFaith = "Sith - CIEMNA STRONA MOCY";
+            var temporaryFaith = WasJedi ? "Jedi - JASNA STRONA MOCY" : "Sith - CIEMNA STRONA MOCY";
             int temporaryAge;
-            if (this.YearOfDeath == 0)
+            if (YearOfDeath == 0)
             {
                 temporaryAge = currentYear - YearOfBirth;
-                return ("Imię: " + Name +"."+ Environment.NewLine+"Planeta pochodzenia: " + Planet +"."+ Environment.NewLine + "Rok urodzenia: " + YearOfBirth + ". Wiek: " + temporaryAge +"."+ Environment.NewLine + "Początkowe wyznanie: " + temporaryFaith +"."+ Environment.NewLine + "Kolor kryształu miecza świetlnego: " + ColourOfLightsaber +"."+ Environment.NewLine + "Styl walki mieczem świetlnym: " + LightsaberCombat +"."+ Environment.NewLine + "Liczba unicestwionych Jedi: " + AmountOfKilledJedi+".");
+                return ("Imię: " + Name + "." + Environment.NewLine + "Planeta pochodzenia: " + Planet + "." + Environment.NewLine + "Rok urodzenia: " + YearOfBirth +
+                    ". Wiek: " + temporaryAge + "." + Environment.NewLine + "Początkowe wyznanie: " + temporaryFaith + "." + Environment.NewLine +
+                    "Kolor kryształu miecza świetlnego: " + ColourOfLightsaber + "." + Environment.NewLine + "Styl walki mieczem świetlnym: " + LightsaberCombat +
+                    "." + Environment.NewLine + "Liczba unicestwionych Jedi: " + AmountOfKilledJedi + ".");
             }
             else
             {
                 temporaryAge = YearOfDeath - YearOfBirth;
-                return ("Imię: " + Name +"."+ Environment.NewLine + "Planeta pochodzenia: " + Planet +"."+ Environment.NewLine + "Rok urodzenia: " + YearOfBirth + ". Żył: " + temporaryAge + " lat. Zmarł w "+YearOfDeath+" roku." + Environment.NewLine +"Początkowe wyznanie: " + temporaryFaith +"."+ Environment.NewLine + "Kolor kryształu miecza świetlnego: " + ColourOfLightsaber +"."+ Environment.NewLine + "Styl walki mieczem świetlnym: " + LightsaberCombat +"."+ Environment.NewLine + "Liczba unicestwionych Jedi: " + AmountOfKilledJedi+".");
+                return ("Imię: " + Name + "." + Environment.NewLine + "Planeta pochodzenia: " + Planet + "." + Environment.NewLine + "Rok urodzenia: " + YearOfBirth +
+                    ". Żył: " + temporaryAge + " lat. Zmarł w " + YearOfDeath + " roku." + Environment.NewLine + "Początkowe wyznanie: " + temporaryFaith + "." + Environment.NewLine +
+                    "Kolor kryształu miecza świetlnego: " + ColourOfLightsaber + "." + Environment.NewLine + "Styl walki mieczem świetlnym: " + LightsaberCombat +
+                    "." + Environment.NewLine + "Liczba unicestwionych Jedi: " + AmountOfKilledJedi + ".");
             }
 
         }
